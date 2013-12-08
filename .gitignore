@@ -1,1 +1,5 @@
 .*
+*.lock
+vendor/*
+.bundle/*
+.gitignore
